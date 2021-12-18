@@ -1,6 +1,6 @@
 # VodafoneAssignment
 
-Foobar is a java API in which we are loading the location of IoT tracking devices details from a csv file to in memory database.
+This assignmnet is a java API in which we are loading the location of IoT tracking devices details from a csv file to in memory database.
 After stroring the data we are fetching device details based on the product id and timestamp where product id is manadatory and timestamp is optional.
 
 ## Installation
